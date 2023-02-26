@@ -2,8 +2,9 @@
   "start": "20:00",
   "account": [
     {
-      "totalaccountmtf": 300,
-      "progressaccountmtf": 10,
+      "totalaccountmtf": "200.000",
+      "progresstotalaccountmtf":"10.000",
+      "persenaccountmtf": "70",
       "progressaccountcanalis": 300,
       "progressaccountcanalis":10,
       "woaccounttotal":70,
